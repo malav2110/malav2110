@@ -4,7 +4,7 @@ Hi 👋 My name is Malav Shah
 UI/UX Developer and Educator
 ----------------------------
 
-I'm a Creative and detail-oriented Web Developer, with 4+ years of experience and strong analytical abilities to know the user requirements and a wide range of technical skills to design, develop, test, and maintain the Web Applications. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+I'm a Creative and detail-oriented Web Developer, with 7+ years of experience and strong analytical abilities to know the user requirements and a wide range of technical skills to design, develop, test, and maintain the Web Applications. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 *   🌍  I'm based in Tempe, Arizona
 *   🖥️  See my portfolio at [My Portfolio](http://malav2110.github.io)
