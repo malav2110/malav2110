@@ -1,53 +1,86 @@
-Hi 👋 My name is Malav Shah
-===========================
+Hi 👋 I’m Malav Shah
+===================
 
-UI/UX Developer and Educator
-----------------------------
+Senior Frontend / Full-Stack Engineer  
+Building scalable, accessible, and high-performance web experiences
 
-I'm a Creative and detail-oriented Web Developer, with 7+ years of experience and strong analytical abilities to know the user requirements and a wide range of technical skills to design, develop, test, and maintain the Web Applications. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises.
+---
 
-*   🌍  I'm based in Tempe, Arizona
-*   🖥️  See my portfolio at [My Portfolio](http://malav2110.github.io)
-*   ✉️  You can contact me at [shahmalav1995@gmail.com](mailto:shahmalav1995@gmail.com)
-*   🧠  I'm learning React, Vue and Webiny Headless CMS
+I’m a software engineer with **7+ years of experience** building and maintaining production-grade web applications.
 
-### Skills
-<p align="left">
-                                <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" height="36" alt="Coffeescript" /></a>
-                                <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-                                <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-                                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-                                <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-                                <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-                                <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-                                <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-                                <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-                    
+I work across frontend and backend systems.  
+My focus is on **modern frontend architecture**, **performance optimization**, and **design-to-code execution**.
 
-   ### Socials
-                  
-   <p align="left"> <a href="https://www.github.com/malav2110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shahmalav1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ShMalav1995" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I care deeply about accessibility, maintainability, and developer experience.  
+I enjoy owning features end-to-end and collaborating closely with designers and backend engineers.  
+Mentoring through code reviews and technical discussions is an important part of my work.
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📍 About Me
 
-<a href="http://www.github.com/malav2110"><img src="https://github-readme-stats.vercel.app/api?username=malav2110&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="malav2110's GitHub stats" /></a>
+- 🌍 Based in **Tempe, Arizona**
+- 🖥️ Portfolio: [malav2110.github.io](http://malav2110.github.io)
+- ✉️ Contact: [shahmalav1995@gmail.com](mailto:shahmalav1995@gmail.com)
+- 💬 Interested in frontend architecture, performance, and senior-level growth
 
-<a href="https://github.com/malav2110" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malav2110&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🧠 Core Expertise
+
+### Frontend
+- React, TypeScript, JavaScript (ES6+)
+- Component-driven development and design systems
+- State management using Redux, hooks, and **XState**
+- Accessibility (WCAG) and cross-browser compatibility
+- Performance optimization and bundle analysis
+
+### UI & Component Systems
+- **Storybook** for isolated component development and documentation
+- **Chakra UI** and **Radix UI** for accessible, composable UI primitives
+- CSS3, Sass, and responsive layouts
+- Design collaboration and handoff using Figma and Adobe XD
+
+### Backend & APIs
+- Node.js and GraphQL
+- RESTful APIs
+- MongoDB and MySQL
+- Working knowledge of Go
+
+### Tooling & Workflow
+- **Vite** for fast development and optimized builds
+- **Vitest** for unit and component testing
+- Webpack and Babel
+- Git and GitHub workflows
+- CI-friendly and review-driven development
+
+---
+
+## 🌍 Open Source Contributions
+
+- **Node.js Org Website**  
+  Contributor to the official **Node.js organization website**, collaborating with maintainers on frontend improvements and modern React patterns.
+
+---
+
+## 🧩 What I’m Known For
+
+- Building scalable component systems
+- Modeling complex UI behavior with **XState**
+- Writing maintainable, performance-conscious frontend code
+- Providing thoughtful code reviews and mentorship
+
+---
+
+## 🔗 Socials
+
+- GitHub: [github.com/malav2110](https://www.github.com/malav2110)
+- LinkedIn: [linkedin.com/in/shahmalav1995](https://www.linkedin.com/in/shahmalav1995)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=malav2110&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malav2110&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
